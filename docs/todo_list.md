@@ -1,4 +1,4 @@
-# TODO List for AI James Clear Chatbot
+# TODO List for AI James Clear Chatbot TESTER
 
 ## **📌 Development Roadmap**
 This document outlines the step-by-step development tasks for building the AI James Clear chatbot using **Windsurf, React, Supabase, Pinecone, and OpenAI**.
